@@ -2,6 +2,4 @@
 
 ## welcome to my github
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=heqiang" />
-</div>
+
